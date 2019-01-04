@@ -17,8 +17,6 @@ public class Main {
 		 */
 
 		// test modif git
-		
-		//test merge : branch master
 
 	}
 
